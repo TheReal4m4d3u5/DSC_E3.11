@@ -1,4 +1,4 @@
-# E3.11DSC-
+# DSC-E3.11
 
 
 Write the following queries in SQL using the university schema.
